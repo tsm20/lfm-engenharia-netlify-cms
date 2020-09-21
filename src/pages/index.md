@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: LFM ENGENHARIA - ESTUDOS & PROJECTOS
-image: /img/structural-engineering.jpg
+image: /img/unnamed-3-.jpg
 heading: A nossa missão
 mainpitch:
   title: Quem Somos
