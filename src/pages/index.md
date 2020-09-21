@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: LFM ENGENHARIA - ESTUDOS & PROJECTOS
-image: /img/structural-engineering.jpg
+image: /img/unnamed-3-.jpg
 heading: A nossa missão
 subheading: Prestação de serviços de optimização operacional, ao nível da
   Engenharia, Consultadoria, Fiscalização e Formação Técnica na concepção e
